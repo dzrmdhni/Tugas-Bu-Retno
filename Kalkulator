@@ -6,7 +6,7 @@ int main ()
     cout <<"Masukkan bilangan pertama : ";
     cin>>a;
     
-    cout <<"Masukkan bilangan kedua ";
+    cout <<"Masukkan bilangan kedua :";
     cin>>b;
     
     cout<<"Pilih operator"<<endl;
@@ -15,7 +15,7 @@ int main ()
     cout<<"\n3. Perkalian"<<endl;
     cout<<"\n4. Pembagian"<<endl;
     
-    cout<<"Masukkan pilihan= ";
+    cout<<"Masukkan pilihan : ";
     cin>>pilih;
     
     if (pilih == 1)
