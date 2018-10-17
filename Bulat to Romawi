@@ -1,0 +1,29 @@
+# include <iostream>
+using namespace std;
+int main ()
+{
+  int romawi;  
+ cout<<" Masukan Data: ";
+ cin>>romawi;
+   if (romawi==1)
+   {
+   cout<<"I"<<endl;
+}
+else if (romawi==2){cout<<"II"<<endl;}
+
+else if (romawi==3){cout<<"III"<<endl;}
+
+else if (romawi==4){cout<<"IV"<<endl;}
+
+else if (romawi==5){cout<<"V"<<endl;}
+
+else if (romawi==6){cout<<"VI"<<endl;}
+
+else if (romawi==7){cout<<"VII"<<endl;}
+
+else if (romawi==8){cout<<"VII"<<endl;}
+
+else if (romawi==9){cout<<"IX"<<endl;}
+
+return 0;
+}
